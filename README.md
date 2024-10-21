@@ -21,9 +21,10 @@ yarn lint
 ```
 ### Steps tp start the app
 ```
-1. yarn or npm install in root directory
-2. yarn start in root directory
-3. json-server --watch db.json in db directory (In separate terminal)
+1. "yarn" or "npm install" in root directory
+2. "yarn start" in root directory
+3. In separate terminal run "cd db"
+3. "json-server --watch db.json" in db directory
 ```
 
 ### Customize configuration
