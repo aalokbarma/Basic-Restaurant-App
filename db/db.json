@@ -1,0 +1,101 @@
+{
+  "users": [
+    {
+      "name": "Aalok Barma",
+      "email": "Aalokbarma17@gmail.com",
+      "password": "Aalok@17"
+    },
+    {
+      "id": "cf3b",
+      "name": "A B",
+      "email": "Aalokbarma17@yopmail.com",
+      "password": "Test@123"
+    },
+    {
+      "id": "c328",
+      "name": "A B 17",
+      "email": "Aalokbarma17@gmail.com",
+      "password": "Aalok@17"
+    },
+    {
+      "id": "215b",
+      "name": "csdc",
+      "email": "acmsc@ikncxa.com",
+      "password": "ajncka"
+    },
+    {
+      "id": "6dbb",
+      "name": "Aalok jx sa",
+      "email": "assxasxka@nanskc.cim",
+      "password": "sxnas"
+    },
+    {
+      "id": "b6bc",
+      "name": "Aalok barma",
+      "email": "Aalokbarma17@yopmail.com",
+      "password": "Aalok@346"
+    },
+    {
+      "id": "6c09",
+      "name": "ascg",
+      "email": "akjcnas@jbacjk.com",
+      "password": "askcnsa"
+    },
+    {
+      "id": "0503",
+      "name": "nvj",
+      "email": "ngvhgv@hjbjhb.vboi",
+      "password": "kjbj"
+    },
+    {
+      "id": "17c3",
+      "name": "sxasj",
+      "email": "sckjnask@bcjas.com",
+      "password": "sjbcaskjc"
+    },
+    {
+      "id": "a960",
+      "name": "Aalok Barma",
+      "email": "assxasxka@nanskc.cim",
+      "password": "sadasd"
+    },
+    {
+      "id": "968f",
+      "name": "nbvb",
+      "email": "nbhc@hgvhj.vj",
+      "password": "vjvb"
+    },
+    {
+      "id": "2e3f",
+      "name": "jhsx",
+      "email": "sdckjdsc@jnakcs.com",
+      "password": "askjcn"
+    },
+    {
+      "id": "b4fb",
+      "name": "Aalok Barma",
+      "email": "aalokbarma17@gmail.com",
+      "password": "sdcsdc"
+    },
+    {
+      "id": "e879"
+    },
+    {
+      "id": "dd03"
+    },
+    {
+      "id": "3e6d"
+    },
+    {
+      "id": "c59e"
+    }
+  ],
+  "restaurants": [
+    {
+      "id": "e49a",
+      "name": "Burman Hospitality",
+      "address": "Bangur Park1",
+      "contact": "06291816662"
+    }
+  ]
+}
