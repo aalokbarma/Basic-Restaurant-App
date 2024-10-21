@@ -7,7 +7,7 @@ yarn install
 
 ### Compiles and hot-reloads for development
 ```
-yarn serve
+yarn start
 ```
 
 ### Compiles and minifies for production
@@ -18,6 +18,12 @@ yarn build
 ### Lints and fixes files
 ```
 yarn lint
+```
+### Steps tp start the app
+```
+1. yarn or npm install in root directory
+2. yarn start in root directory
+3. json-server --watch db.json in db directory (In separate terminal)
 ```
 
 ### Customize configuration
